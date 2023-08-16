@@ -1,6 +1,6 @@
 import {
   collection,
-  getDocs,
+  /*  getDocs, */
   limit,
   onSnapshot,
   orderBy,
